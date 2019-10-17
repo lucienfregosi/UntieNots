@@ -1,0 +1,11 @@
+[
+  {
+     "type": "record",
+     "namespace": "fr.lucien.test.kafka",
+     "name": "Info",
+     "doc": "Record representing a cart element inside our training application",
+     "fields": [
+       { "name": "source", "type": "string", "doc": "filesource"},
+       { "name": "word", "type": "int", "doc": "word value"  }
+     ]
+}]

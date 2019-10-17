@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/ippon/dev/perso/UntiNots/scala-kafka-spark-stream-dataframe/src/main/resources/application.conf,/Users/ippon/dev/perso/UntiNots/scala-kafka-spark-stream-dataframe/target/scala-2.11/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/ippon/dev/perso/UntiNots/scala-kafka-spark-stream-dataframe/src/main/resources/log4j.properties,/Users/ippon/dev/perso/UntiNots/scala-kafka-spark-stream-dataframe/target/scala-2.11/classes/log4j.properties)[0m
